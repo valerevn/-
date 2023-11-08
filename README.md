@@ -15,7 +15,7 @@
 <li> создание калькулятора юнит-экономики;</li>
 <li> визуализация результатов анализа данных.</li>
 
-  > <a href="https://github.com/valerevn/Portfolio/blob/main/folder/.%D0%98%D1%82%D0%BE%D0%B3%D0%B8%20%D1%8E%D0%BD%D0%B8%D1%82-%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0.xlsx">Выводы (итоги)</a>
+  > <a href="https://github.com/valerevn/Portfolio/blob/main/folder/.%D0%98%D1%82%D0%BE%D0%B3%D0%B8%20%D1%8E%D0%BD%D0%B8%D1%82-%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0.xlsx">Ссылка на проект</a>
   
 
 
@@ -39,8 +39,9 @@
    <li>подготовила данные к работе, очистив от неверно заполненных ячеек;
    <li> сделала выводы по критерию Стьюдента и Манна Уитни; 
    <li> провела аналитику по различным сегментам;
-   <li> создала калькулятор в Exel для расчета выручки при использовании той или иной механики
- 
+   <li> создала калькулятор в Exel для расчета выручки при использовании той или иной механики</li> 
+   
+ ><a href="https://github.com/valerevn/Portfolio/blob/main/Calculate_ABtest.xlsx">Ссылка на проект</a>
 ## Контактная информация
 
 - Telegramm: @alinavalerevn
